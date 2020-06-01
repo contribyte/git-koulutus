@@ -1,6 +1,7 @@
 # Git koulutus git-koulutus
 ##GIT, Bitbucket, GitHub
 Tarjoamme monipuolisesti Git koulutusta aina peruskursseista vaativimpiin tilanteisiin. Kurssin sisältöä muokataan osallistujien mukaan niin, että vaikeustaso pysyy sopivana ja sisältö mielenkiintoisena.
+https://contribyte.fi/koulutukset/github/
 
 Kurssin sisältöä sovitetaan tyypillisesti vastaamaan osallistujaryhmän tarpeita päivittäisen työn opettelusta suuremman projektin läpiviemiseen ja problematiikkaan. Tyypillisesti käydään läpi Git:n peruskäyttö ja keskustellaan tässä yhteydessä hyvistä käyttötavoista. Koulutuksessa esitellään yleisimmät bränchäys -käytännöt ja niiden soveltaminen käytännön ja esimerkkitarinoiden kautta. Haluttaessa perehdytään myös tarkemmin Pull Request -käytäntöihin ja koodikatselmoinnin soveltamiseen omassa toimintaympäristössä, tai CI-build ja DevOps-käytäntöihin.
 
