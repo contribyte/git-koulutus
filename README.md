@@ -13,6 +13,7 @@ Tunnet rinnakkaisen kehittämisen periaatteet ja osaat soveltaa niitä Git:n kan
 Osaat suunnitella hyviä käytäntöjä tiimisi versionhallinnan kehittämiseen
 ```
 
+
 ## Esimerkki agendasta
 
 ```
