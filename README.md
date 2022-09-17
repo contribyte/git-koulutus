@@ -40,14 +40,14 @@ Making Releases
 »Tagging and Branching
 ```
 
-##Kenelle
+## Kenelle
 Kokeneille ohjelmistokehittäjille, joilla ei ole täyttä tuntemusta Git versionhallinnasta entuudestaan. Kurssi on sovellettavissa myös täysin uusille Git-käyttäjille, jolloin se ei vaadi merkittävää ohjelmistokehityskokemusta entuudestaan.
 
 Kurssia suositellaan myös kokonaiselle kehitystiimille, kun versionhallinnan käytäntöjä ollaan kehittämässä ja muuttamassa.
 
 Kurssia pidetään rajoitetusti yksittäisille osallistujille yrityskohtaisten koulutusten sijaan. Jos olet kiinnostunut osallistumaan yksin, ilmoita kiinnostuksestasi alla ja mainitse olevasi yksittäinen osallistuja.
 
-##Kieli
+## Kieli
 Tämä koulutus pidetään suomeksi / englanniksi. Esitysmateriaali on englanninkielinen.
 
 Lisäksi tarjoamme Git Advanced -kurssia, jonka sisältö voidaan sopia erikseen.
