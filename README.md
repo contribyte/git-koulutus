@@ -17,10 +17,10 @@ Osaat suunnitella hyviä käytäntöjä tiimisi versionhallinnan kehittämiseen
 
 ## Esimerkki agendasta
 
-```
+
 Introduction
 » Version Control in general
-»Git concepts & Distributed SCM
+» Git concepts & Distributed SCM
 Basic workflow
 »Making code changes and committing them
 »File operations
@@ -38,7 +38,7 @@ Pull requests and code review
 Making Releases
 »Principles and industry standard practices
 »Tagging and Branching
-```
+
 
 ## Kenelle
 Kokeneille ohjelmistokehittäjille, joilla ei ole täyttä tuntemusta Git versionhallinnasta entuudestaan. Kurssi on sovellettavissa myös täysin uusille Git-käyttäjille, jolloin se ei vaadi merkittävää ohjelmistokehityskokemusta entuudestaan.
