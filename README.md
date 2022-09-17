@@ -7,8 +7,7 @@ Kurssin sisältöä sovitetaan tyypillisesti vastaamaan osallistujaryhmän tarpe
 
 Kurssit käsittävät sekä komentorivin että halutun graafisen käyttöliittymän, kuten SourceTreen tai Tortoise Git:n, käyttämisen. Toteutus tehdään GitHubin tai Bitbucketin kautta toiveen mukaan.
 
-Tämän kurssin käytyäsi
-Osaat Git:n perustoiminnot
+Tämän kurssin käytyäsi osaat Git:n perustoiminnot
 ```
 Tunnet rinnakkaisen kehittämisen periaatteet ja osaat soveltaa niitä Git:n kanssa
 Osaat suunnitella hyviä käytäntöjä tiimisi versionhallinnan kehittämiseen
