@@ -18,26 +18,26 @@ Osaat suunnitella hyviä käytäntöjä tiimisi versionhallinnan kehittämiseen
 ## Esimerkki agendasta
 
 
-Introduction
-» Version Control in general
-» Git concepts & Distributed SCM
-Basic workflow
-»Making code changes and committing them
-»File operations
-Troubleshooting
-»Quick survival guide
-»A deep(er) dive into GIT principles
-Branching strategies
-»Git FLOW
-»Working practices and examples
-Merging Conflicts
-»Conflicting changes and resolving those
-Pull requests and code review
-»Using pull request
-»Best practices
-Making Releases
-»Principles and industry standard practices
-»Tagging and Branching
+### Introduction
+- Version Control in general
+- Git concepts & Distributed SCM
+### Basic workflow
+- Making code changes and committing them
+- File operations
+### Troubleshooting
+- Quick survival guide
+- A deep(er) dive into GIT principles
+### Branching strategies
+- Git FLOW
+- Working practices and examples
+### Merging Conflicts
+- Conflicting changes and resolving those
+### Pull requests and code review
+- Using pull request
+- Best practices
+### Making Releases
+- Principles and industry standard practices
+- Tagging and Branching
 
 
 ## Kenelle
