@@ -1,5 +1,5 @@
 # Git koulutus git-koulutus
-##GIT, Bitbucket, GitHub
+## GIT, Bitbucket, GitHub
 Tarjoamme monipuolisesti Git koulutusta aina peruskursseista vaativimpiin tilanteisiin. Kurssin sisältöä muokataan osallistujien mukaan niin, että vaikeustaso pysyy sopivana ja sisältö mielenkiintoisena.
 https://contribyte.fi/koulutukset/github/
 
@@ -19,7 +19,7 @@ Osaat suunnitella hyviä käytäntöjä tiimisi versionhallinnan kehittämiseen
 
 ```
 Introduction
-»Version Control in general
+» Version Control in general
 »Git concepts & Distributed SCM
 Basic workflow
 »Making code changes and committing them
@@ -52,4 +52,4 @@ Tämä koulutus pidetään suomeksi / englanniksi. Esitysmateriaali on englannin
 
 Lisäksi tarjoamme Git Advanced -kurssia, jonka sisältö voidaan sopia erikseen.
 
-https://contribyte.fi/koulutukset/git-bitbucket/
+https://contribyte.fi/koulutukset/git/
